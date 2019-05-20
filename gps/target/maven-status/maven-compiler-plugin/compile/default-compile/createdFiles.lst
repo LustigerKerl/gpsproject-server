@@ -1,0 +1,4 @@
+com\wong\gps\controller\GpsApiController.class
+com\wong\gps\dto\GpsDTO.class
+com\wong\gps\GpsRepository.class
+com\wong\gps\GpsApplication.class
